@@ -4,6 +4,7 @@ export const portfolioData = [
     name: "Sugar-Cosmetic Website Clone",
     img: "./img/sugar-cos.png",
     demourl: "https://sugar-cosmetic-clone.netlify.app",
+    
     githuburl: "https://github.com/jayasmita12/Sugar-Cosmetic-Clone",
     description: "Sugar-Cosmetic is a one-stop solution for all cosmetic products in India . Our team project executed by 5 members with in 6 days ."
   },
@@ -20,17 +21,17 @@ export const portfolioData = [
     name: "Pharmeasy clone",
     img: "./img/pharmeasy.png",
     demourl: "https://pharmeasy-clone.vercel.app",
-    githuburl: "https://github.com/jahidulsaeid/youtube-search-react",
+    githuburl: "https://github.com/jayasmita12/Pharmeasy-Clone",
     description: "Pharmeasy is an Indian healthcare app and ecommerce platform for consumers involved in selling online medicines, diagnostics, telehealth, online doctor consultation services."
   },
-  // {
-  //   id: 3,
-  //   name: "Image search",
-  //   img: "./img/portfolio6.png",
-  //   demourl: "https://image-search.jahidulsaeid.com",
-  //   githuburl: "https://github.com/jahidulsaeid/react-pics",
-  //   description: "Image search using Unsplash-API and image organized by their height"
-  // },
+  {
+    id: 3,
+    name: "Image search",
+    img: "./img/portfolio6.png",
+    demourl: "https://unsplash-project.netlify.app",
+    githuburl: "https://github.com/jayasmita12/Unsplash-app",
+    description: "Image search using Unsplash-API and image organized by their height"
+  },
   // {
   //   id: 4,
   //   name: "Developer Community",

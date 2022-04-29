@@ -1,11 +1,11 @@
 import React from "react";
 
 import AboutImage from "../images/Jayasmita-Photograph.jpg";
-import { IoIosColorPalette } from "react-icons/io";
+// import { IoIosColorPalette } from "react-icons/io";
 import { FiCode, FiShoppingBag } from "react-icons/fi";
 import { AiOutlineMobile } from "react-icons/ai";
-import { FaWordpress } from "react-icons/fa";
-import { IoMdAnalytics } from "react-icons/io";
+// import { FaWordpress } from "react-icons/fa";
+// import { IoMdAnalytics } from "react-icons/io";
 
 const About = () => {
   return (
@@ -77,7 +77,7 @@ const About = () => {
           </div>
           <div className="mi-service-wrapper">
             <div className="row mt-30-reverse">
-              <div className="col-lg-4 col-md-6 col-12 mt-30">
+              {/* <div className="col-lg-4 col-md-6 col-12 mt-30">
                 <div className="mi-service">
                   <span className="mi-service-icon">
                     <IoIosColorPalette />
@@ -89,7 +89,7 @@ const About = () => {
                     to send.
                   </p>
                 </div>
-              </div>
+              </div> */}
               <div className="col-lg-4 col-md-6 col-12 mt-30">
                 <div className="mi-service">
                   <span className="mi-service-icon">
@@ -102,7 +102,7 @@ const About = () => {
                   </p>
                 </div>
               </div>
-              <div className="col-lg-4 col-md-6 col-12 mt-30">
+              {/* <div className="col-lg-4 col-md-6 col-12 mt-30">
                 <div className="mi-service">
                   <span className="mi-service-icon">
                     <FaWordpress />
@@ -113,7 +113,7 @@ const About = () => {
                     content without knowing how to code.
                   </p>
                 </div>
-              </div>
+              </div> */}
               <div className="col-lg-4 col-md-6 col-12 mt-30">
                 <div className="mi-service">
                   <span className="mi-service-icon">
@@ -127,7 +127,7 @@ const About = () => {
                 </div>
               </div>
 
-              <div className="col-lg-4 col-md-6 col-12 mt-30">
+              {/* <div className="col-lg-4 col-md-6 col-12 mt-30">
                 <div className="mi-service">
                   <span className="mi-service-icon">
                     <IoMdAnalytics />
@@ -138,7 +138,7 @@ const About = () => {
                     make smarter business decisions.
                   </p>
                 </div>
-              </div>
+              </div> */}
               <div className="col-lg-4 col-md-6 col-12 mt-30">
                 <div className="mi-service">
                   <span className="mi-service-icon">

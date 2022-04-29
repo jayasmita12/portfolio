@@ -15,8 +15,8 @@ class Portfolio extends Component {
         <div className="mi-about mi-section mi-padding-top mi-padding-bottom">
           <div className="container">
             <div className="mi-sectiontitle">
-              <h2>Portfolios</h2>
-              <span>Portfolios</span>
+              <h2>Projects</h2>
+              <span>Projects</span>
             </div>
             <div className="row mt-30-reverse">
               {/* Start */}

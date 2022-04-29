@@ -3,7 +3,7 @@ import React, { Component } from "react";
 
 class PortfolioItem extends Component {
   render() {
-    const { name, img, demourl, description } = this.props.portfolio;
+    const { name, img, demourl, description,githuburl } = this.props.portfolio;
 
     return (
       <div className="col-lg-4 col-md-6 col-12 mt-30">
@@ -16,7 +16,15 @@ class PortfolioItem extends Component {
           </div>
           <h5>{name}</h5>
 		<p>{description}</p>
-        
+    
+                <a
+                  href={githuburl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mi-button"
+                >
+                  Code
+                </a>
         </div>
       </div>
     );

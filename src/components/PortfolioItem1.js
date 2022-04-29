@@ -39,7 +39,7 @@ export class PortfolioItem extends Component {
             </a>
           </h5>
           <p>{description}</p>
-    
+       
         </div>
       </div>
     );
