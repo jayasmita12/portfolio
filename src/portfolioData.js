@@ -12,7 +12,7 @@ export const portfolioData = [
     id: 1,
     name: "Dermstore website clone ",
     img: "./img/derm.png",
-    demourl: "http://dermstore-clone.netlify.app",
+    demourl: "https://dermstore-clone.netlify.app",
     githuburl: "https://github.com/jayasmita12/DERMSTORE-WEB-PROJECT",
     description: "Dermstore is a product based British E-commerce website sealing Cosmetics ."
   },
