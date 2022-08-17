@@ -20,7 +20,7 @@ export const portfolioData = [
     id: 2,
     name: "Pharmeasy clone",
     img: "./img/pharmeasy.png",
-    demourl: "https://pharmeasy-clone.vercel.app",
+    demourl: "https://pharmeasy-app.netlify.app/",
     githuburl: "https://github.com/jayasmita12/Pharmeasy-Clone",
     description: "Pharmeasy is an Indian healthcare app and ecommerce platform for consumers involved in selling online medicines, diagnostics, telehealth, online doctor consultation services."
   },
