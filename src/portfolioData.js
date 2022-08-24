@@ -32,14 +32,14 @@ export const portfolioData = [
     githuburl: "https://github.com/jayasmita12/Unsplash-app",
     description: "Image search using Unsplash-API and image organized by their height"
   },
-  // {
-  //   id: 4,
-  //   name: "Developer Community",
-  //   img: "./img/portfolio2.png",
-  //   demourl: "https://developer-connect-network.herokuapp.com",
-  //   githuburl: "https://github.com/jisaeid/developer-connect",
-  //   description: "A small social network for developer. Here we can create our own profile and we can add experience, education. we can create post and like, comment. also, We can see user latest github repository and add their social media link"
-  // },
+  {
+    id: 4,
+    name: "Developer Community",
+    img: "./img/portfolio2.png",
+    demourl: "https://developer-connect-network.herokuapp.com",
+    githuburl: "https://github.com/jisaeid/developer-connect",
+    description: "A small social network for developer. Here we can create our own profile and we can add experience, education. we can create post and like, comment. also, We can see user latest github repository and add their social media link"
+  },
   // {
   //   id: 5,
   //   name: "Contact Manager",
