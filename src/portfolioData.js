@@ -62,5 +62,13 @@ export const portfolioData = [
     demourl:"https://open-weather-appp.netlify.app/",
     githuburl:"https://github.com/jayasmita12/Bio-Generator-App",
     description:"Open Weather app which show temp pressure also 7 days weather forcast in typed location and also it is a small individual project"
+  },
+  {
+    id:10,
+    name:"Infinite Scrolling app",
+    img:"./img/scroling.png",
+    demourl:"https://infinite-scrolling-chi.vercel.app/",
+    githuburl:"https://github.com/jayasmita12/Infinite-scrolling",
+    description:"Infinte Scrooling app, when you scroll down it showing loaded bar in the bottom .This also an individual task."
   }
 ];
