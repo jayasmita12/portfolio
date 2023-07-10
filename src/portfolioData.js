@@ -1,11 +1,11 @@
 export const portfolioData = [
   {
     id: 6,
-    name: "Sugar-Cosmetic Website Clone",
-    img: "./img/sugar-cos.png",
-    demourl: "https://sugar-cosmetic-website.netlify.app",
-    githuburl: "https://github.com/jayasmita12/Sugar-Cosmetic-Clone",
-    description: "Sugar-Cosmetic is a one-stop solution for all cosmetic products in India . Our team project executed by 5 members with in 6 days ."
+    name: "Lemontours project",
+    img: "./img/lemontours.png",
+    demourl: "https://lmon-tours.netlify.app/",
+    githuburl: "",
+    description: "Lemontours-admin project based on hotel purpose .The whole project managed by myself. This part is an Admin panel part . The project Ui structure and frontend functionality. The whole project completed with in 4 month. The is a real time project . To access the project use email:jayasmitasahu487448@gmail.com and password:Sahu1234."
   },
   {
     id: 1,
