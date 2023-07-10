@@ -9,14 +9,22 @@ export const portfolioData = [
   },
   {
     id: 1,
-    name: "Dermstore website clone ",
-    img: "./img/derm.png",
-    demourl: "https://dermstore-clone.netlify.app",
-    githuburl: "https://github.com/jayasmita12/DERMSTORE-WEB-PROJECT",
-    description: "Dermstore is a product based British E-commerce website sealing Cosmetics ."
+    name: "Apprecial Project",
+    img: "./img/apprecial.png",
+    demourl: "https://apprecial.netlify.app/",
+    githuburl: "https://github.com/jayasmita12/apprecial-project",
+    description: "Apprecial is a real project .This is also Single project. Using Gsap for text animation and Create the light mode and dark mode . Fully responsive."
   },
   {
     id: 2,
+    name: "Photoshop Project",
+    img: "./img/photoshop.png",
+    demourl: "https://photoshoped.netlify.app/",
+    githuburl: "https://github.com/jayasmita12/photoshoped",
+    description: "Phtoshop is a real project .This is also Single project. First real project in Qbtrix . "
+  },
+  {
+    id: 3,
     name: "Pharmeasy clone",
     img: "./img/pharmeasy.png",
     demourl: "https://pharmeasy-website-clonee.netlify.app",
@@ -24,7 +32,7 @@ export const portfolioData = [
     description: "Pharmeasy is an Indian healthcare app and ecommerce platform for consumers involved in selling online medicines, diagnostics, telehealth, online doctor consultation services."
   },
   {
-    id: 3,
+    id: 4,
     name: "Image search",
     img: "./img/portfolio6.png",
     demourl: "https://unsplash-project.netlify.app",
